@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F51DF9A1-6734-444D-8AFF-689D62914DA7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cacheImagenes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>697847B81B99BEA596CC0D70AE35792C6BD55772</key>
+		<string>192.168.1.39:~/projects_movil/waap_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cacheImagenes/cacheImagenes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>697847B81B99BEA596CC0D70AE35792C6BD55772</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>192.168.1.39:~/projects_movil/waap_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>697847B81B99BEA596CC0D70AE35792C6BD55772</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>697847B81B99BEA596CC0D70AE35792C6BD55772</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
